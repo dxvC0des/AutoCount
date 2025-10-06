@@ -1,18 +1,7 @@
-# Primary README.MD Template
-### Disclaimer
-Disclamer Alert Here
-
-**BOLD TEXT**
-
-### Table of contents
-1. [Introduction](#introduction)
-2. [Contributors](#contributors)
-3. [About](#about)
-4. [FAQ](#faq)
+# AutoCount
 
 ### Introduction
-Hey There! This is just a *ReadME Template File* so theres no need to worry lol. Here is a **Bolded Text** do :emoji_name: for an emoji
-**Any support is highly appreciated!**
+AutoCount was a school project I worked on for months, and now it is open source!
 
 ### Contributors
 This is a list of people who really helped the repository grow over time:
