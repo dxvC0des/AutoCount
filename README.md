@@ -1,44 +1,45 @@
-# AutoCount
+ ![rfsmp_loginlogo](https://github.com/user-attachments/assets/d089838c-557a-4aa0-8b77-1306664769da)
 
 ### Introduction
 AutoCount was a school project I worked on for months, and now it is open source!
 
-### Contributors
-This is a list of people who really helped the repository grow over time:
-* New Line
-* [dxvC0des](https://github.com/dxvC0des)
+### What does those colors mean?
 
-# About
-No About
+| State                   | LED Color        | Behavior           |
+| ----------------------- | ---------------- | ------------------ |
+| Connecting to Wifi      | Breathing Blue   | Connecting         |
+| Connected               | Solid Blue       | Wi-Fi OK           |
+| Card scanned (and sent) | Green (2s)       | Success            |
+| Send failed             | Red (2s)         | Error              |
+| AP Mode                 | Orange           | Fallback hotspot   |
 
+# Purpose:
+The purpose of this device is to help student's or employees in the business field to effectivly clock in and out of where they need to go while staff members / faculty members can check where they are going using a website.
 
-### Statistics Test
-Stat Test Below
+# Guides / Instructions
+### Materials Needed:
+- Ardunio MKR WiFi 1010
+- RFID Sensor
+- Breadboard
+- Some wires
+- This Github Repo
 
-Type Lol | Percentage
------------- | -------------
-Item 1 | 40%
-Item 2 | 20%
-Item 3 | 15%
-Item 4 | 10%
-Item 6 | 10%
-Item 7 | 5%
+(Total Cost: ~$80 USD)
 
-# FAQ
+### Steps:
+1. Download the Arduino IDE
+2. Create a new .ino file and copy and paste the script -- filling out your information like your wifi info
+3. Attach the Arduino to the Breadboard
+4. Connect the wires from the arduino to the RFID Sensor
+5. Plug it in to your computer and upload the code to the arduino
+6. Unplug the arduino
+7. Download the kiosk app(s) via the releases tab.
+8. Unzip the file and setup the Kiosk App
+9. Plug in the Arduino Board to your computer again
+10. Run the kiosk app
+11. There you go!
+    
+### *This is NOT intended for replica since majority of the information is stored on the server. But i think you could replicate it tho, im not sure.*
 
-### FAQ Templates
-* ❓ Question
-* 💡 Answer
-
-* ❓ What is this?
-* 💡 [Here](#Introduction)
-
-- Question 1
-> Answer
-
-- Question 1 w/ [link](https://example.com)
-> Answer w/ [link](https://codingfr.com)
-
-### Contact
-Contact me on github or disc
-
+### Disclaimer:
+AutoCount is **NOT** intended for actual commerical use. This was meant for a school project. Some stuff can and will and/or probably break. I'm not responsible for anything _you_ **damaged** when using my product.
