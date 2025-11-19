@@ -5,13 +5,13 @@ AutoCount was a school project I worked on for months, and now it is open source
 
 ### What does those colors mean?
 
-| State                   | LED Color        | Behavior           |
-| ----------------------- | ---------------- | ------------------ |
-| Connecting to Wifi      | Breathing Blue   | Connecting         |
-| Connected               | Solid Blue       | Wi-Fi OK           |
-| Card scanned (and sent) | Green (2s)       | Success            |
-| Send failed             | Red (2s)         | Error              |
-| AP Mode                 | Orange           | Fallback hotspot   |
+| State                   | LED Color        
+| ----------------------- | ---------------- 
+| Connecting to Wifi      | Breathing Blue   
+| Connected               | Solid Blue       
+| Card scanned (and sent) | Green (2s)       
+| Send failed             | Red (2s)         
+| AP Mode                 | Orange           
 
 # Purpose:
 The purpose of this device is to help student's or employees in the business field to effectivly clock in and out of where they need to go while staff members / faculty members can check where they are going using a website.
