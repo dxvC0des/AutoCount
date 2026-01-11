@@ -14,7 +14,7 @@ AutoCount was a school project I worked on for months, and now it is open source
 | AP Mode                 | Orange           
 
 # Purpose:
-The purpose of this device is to help student's or employees in the business field to effectivly clock in and out of where they need to go while staff members / faculty members can check where they are going using a website.
+The purpose of this device is to help student's or employees in the business field to effectively clock in and out of where they need to go while staff members / faculty members can check where they are going, using a website.
 
 # Guides / Instructions
 ### Materials Needed:
