@@ -32,14 +32,16 @@ The purpose of this device is to help student's or employees in the business fie
 3. Attach the Arduino to the Breadboard
 4. Connect the wires from the arduino to the RFID Sensor
 5. Plug it in to your computer and upload the code to the arduino
-6. Unplug the arduino
-7. Download the kiosk app(s) via the releases tab.
-8. Unzip the file and setup the Kiosk App
-9. Plug in the Arduino Board to your computer again
-10. Run the kiosk app
-11. There you go!
-    
-### *This is NOT intended for replica since majority of the information is stored on the server. But i think you could replicate it tho, im not sure.*
+6. Download the setup app in the releases tab
+7. Unzip the file and run the setup file
+8. Plug in the Arduino Board to your computer again
+9. Run the kiosk app
+10. There you go!
+## Dependencies:
+ - Drivers required for AutoCount (Install them via releases)
+ - [XAMPP](https://www.apachefriends.org/download.html)
+   
+### ~~*This is NOT intended for replica since majority of the information is stored on the server. But i think you could replicate it tho, im not sure.*~~ *Stored on localhost now :)*
 
 ### Disclaimer:
 AutoCount is **NOT** intended for actual commerical use. This was meant for a school project. Some stuff can and will and/or probably break. I'm not responsible for anything _you_ **damaged** when using my product.
